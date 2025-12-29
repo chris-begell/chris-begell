@@ -1,7 +1,7 @@
 -  Hi, I’m @chris-begell
--  I’m interested in programming in Python, currently, mainly applications based, but sometimes embedded(I've done one project in Micropython).
--  I’m currently learning SQL.
--  I currently work as a CNC Machinist, and I was in the glass industry for about 20 years before that. I started learning Python about a year ago, I just completed my second project.
+-  Python programmer, also know some SQL(PostgreSQL), and have owned two Wordpress blogs.
+-  I’m currently learning C.
+-  I currently work as a CNC Machinist, and I was in the glass industry for about 20 years before that. I started learning Python in 22/23, I'm currently finishing up my third project(an MP3 player, because the world needs more of those).
 -  You can reach me at begellct@gmail.com
  
   
